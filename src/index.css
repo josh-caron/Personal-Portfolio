@@ -1,0 +1,54 @@
+/* src/index.css */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9fafb;
+  color: #333;
+  line-height: 1.5;
+}
+
+/* Container stays limited in width (content only) */
+.container {
+  max-width: 1100px;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+h1, h2, h3 {
+  color: #222;
+  margin-bottom: 0.2rem; /* 👈 smaller space instead of default */
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+/* Navbar full width */
+nav {
+  width: 100%;
+  background-color: #333;
+  padding: 1rem 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
