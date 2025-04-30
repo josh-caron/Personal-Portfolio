@@ -52,3 +52,67 @@ nav a {
 nav a:hover {
   text-decoration: underline;
 }
+
+.involvement-section {
+  margin-top: 3rem;
+}
+
+
+.involvement-item {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 1rem;
+}
+
+.involvement-left {
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+  padding-right: 1.5rem;
+}
+
+.involvement-right {
+  flex: 2;
+  min-width: 250px;
+}
+
+.involvement-left h3 {
+  margin: 0 0 0.2rem 0;
+}
+
+.involvement-left p {
+  margin: 0.2rem 0;
+}
+
+.involvement-right ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+
+h2 {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+
+
+
+.skills-section {
+  margin-top: 3rem;
+  padding-top: 1rem;
+}
+
+.skills-section h2 {
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5rem;
+}
+
+.skills-section p {
+  margin: 0.5rem 0;
+  line-height: 1.6;
+}

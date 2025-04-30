@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { FaHome, FaGraduationCap, FaFolderOpen, FaEnvelope, FaFilePdf, FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaHome, FaGraduationCap, FaFolderOpen, FaEnvelope, FaFilePdf, FaGithub, FaLinkedin, FaBriefcase } from 'react-icons/fa';
 
 function Navbar() {
   return (
@@ -23,7 +23,8 @@ function Navbar() {
         <Link to="/" style={{ fontSize: '2rem', color: 'white' }}><FaHome /></Link>
         <Link to="/education" style={{ fontSize: '2rem', color: 'white' }}><FaGraduationCap /></Link>
         <Link to="/projects" style={{ fontSize: '2rem', color: 'white' }}><FaFolderOpen /></Link>
-      </div>
+        <Link to="/work" style={{ fontSize: '2rem', color: 'white' }}><FaBriefcase /></Link> 
+     </div>
 
       {/* Bottom external links */}
       <div style={{ 
