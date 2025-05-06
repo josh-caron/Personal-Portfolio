@@ -116,3 +116,15 @@ h2 {
   margin: 0.5rem 0;
   line-height: 1.6;
 }
+
+@media (max-width: 768px) {
+  .sidebar {
+    transform: translateX(-100%);
+  }
+  .sidebar.open {
+    transform: translateX(0);
+  }
+  .hamburger-toggle {
+    display: block !important;
+  }
+}
