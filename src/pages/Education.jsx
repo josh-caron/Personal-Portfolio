@@ -30,11 +30,11 @@ function Education() {
           </thead>
           <tbody>
           <tr>
-              <td style={tdStyle}>CDA3101</td>
-              <td style={tdStyle}>Introduction to Computer Organization</td>
+              <td style={tdStyle}>COT5615</td>
+              <td style={tdStyle}>Math for Intelligent Systems</td>
               <td style={tdStyle}>IP</td>
               <td style={tdStyle}>Fall 2025</td>
-              <td style={tdStyle}>Fundamentals of CPU architecture and instruction sets</td>
+              <td style={tdStyle}>Mathematical foundations of intelligent systems, including linear algebra, probability, and optimization</td>
             </tr>
           <tr>
               <td style={tdStyle}>CIS4301</td>
@@ -60,14 +60,14 @@ function Education() {
             <tr>
               <td style={tdStyle}>COP3530</td>
               <td style={tdStyle}>Data Structures and Algorithms</td>
-              <td style={tdStyle}>IP</td>
+              <td style={tdStyle}>A</td>
               <td style={tdStyle}>Summer 2025</td>
               <td style={tdStyle}>Study of fundamental data structures and algorithm analysis</td>
             </tr>
             <tr>
               <td style={tdStyle}>MAS3114</td>
               <td style={tdStyle}>Computational Linear Algebra</td>
-              <td style={tdStyle}>IP</td>
+              <td style={tdStyle}>A</td>
               <td style={tdStyle}>Summer 2025</td>
               <td style={tdStyle}>Numerical methods for solving linear algebra problems with Matlab</td>
             </tr>       
