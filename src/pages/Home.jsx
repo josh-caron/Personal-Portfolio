@@ -10,7 +10,7 @@ function Home() {
           style={{ width: '250px', height: '250px', borderRadius: '50%', objectFit: 'cover' }}
         />
         <div>
-          <h1>Hey! I'm Josh.</h1>
+          <h1>Hi! I'm Josh.</h1>
           <p>I'm an undergraduate student at the University of Florida, deeply interested in machine learning / research.</p>
         </div>
       </section>
