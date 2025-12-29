@@ -14,7 +14,8 @@ function Work() {
           </div>
           <div className="involvement-right">
             <ul>
-              <li>Created and produced over 200 e-learning videos covering topics in physics, designed to support students at the University of Florida.</li>
+              <li>I provide resources for over 1000 students per semester in physics I and II, with and without calculus. </li>
+              <li>Created and produced over 400 e-learning videos covering topics in physics, designed to support students at the University of Florida.</li>
               <li>Achieved significant reach and engagement, with hundreds of unique viewers and substantial total watch hours across the video library.</li>
             </ul>
           </div>
@@ -44,8 +45,9 @@ function Work() {
           </div>
           <div className="involvement-right">
             <ul>
-              <li>Provided academic support in upper-level undergraduate math courses, through Calculus III, assisting students in developing conceptual understanding and problem-solving techniques. </li>
+              <li>Provided academic support in undergraduate math courses, through Calculus III, assisting students in developing conceptual understanding and problem-solving techniques. </li>
               <li>Led weekly discussion sections and review sessions, reinforcing complex topics through detailed explanations and guided practice.</li>
+              <li>Teaching Assitant for MAC1147 F'23 & S'24</li>
             </ul>
           </div>
         </div>

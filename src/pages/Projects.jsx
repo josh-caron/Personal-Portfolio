@@ -9,18 +9,20 @@ function Projects() {
           <div style={gridContainer}>
             {/* Project Card 1 */}
             <div style={card}>
+              <h3>Back on Track GNV</h3>
+              <p><strong>Technologies:</strong> MongoDB, Express.js, React.js, Node.js</p>
+              <p>A full-stack volunteer management web app for Back On Track Gainesville.</p>
+              <a href="https://github.com/josh-caron/Back_On_Track_GNV" target="_blank" rel="noopener noreferrer">View GitHub Repo</a>
+              <a href="https://back-on-track-gnv.vercel.app/" target="_blank" rel="noopener noreferrer">View Live Site</a>
+
+            </div>
+
+            {/* Project Card 1 */}
+            <div style={card}>
               <h3>(This!) Portfolio Website</h3>
               <p><strong>Technologies:</strong> React.js, Vite, CSS</p>
               <p>Built a responsive portfolio to showcase my education, skills, and projects. Deployed on Vercel.</p>
               <a href="https://github.com/josh-caron/Personal-Portfolio.git" target="_blank" rel="noopener noreferrer">View GitHub Repo</a>
-            </div>
-  
-            {/* Project Card 2 */}
-            <div style={card}>
-              <h3>Minesweeper</h3>
-              <p><strong>Technologies:</strong> C++, SFML</p>
-              <p>Created a fully functional Minesweeper game with adjustable dimensions, timer, and a leaderboard.</p>
-              <a href="https://github.com/josh-caron/Minesweeper.git" target="_blank" rel="noopener noreferrer">View GitHub Repo</a>
             </div>
   
             {/* Add more project cards here! */}
@@ -33,10 +35,9 @@ function Projects() {
         <section className="skills-section">
         <h2>Technical Skills</h2>
 
-        <p><strong>Languages:</strong> Python, C++</p>
-        {/* <p><strong>Frameworks:</strong> React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI</p> */}
-        <p><strong>Developer Tools:</strong> Git, Github, VS Code, CLion, PyCharm</p>
-        {/* <p><strong>Libraries:</strong> pandas, NumPy, Matplotlib</p> */}
+        <p><strong>Languages:</strong> Python, C++, Javascript, SQL</p>
+        <p><strong>Frameworks:</strong> React, Node.js, Express.js</p>
+        <p><strong>Libraries:</strong> NumPy, Matplotlib</p>
       </section>
 
       </div>
