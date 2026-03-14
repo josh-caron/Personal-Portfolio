@@ -174,7 +174,7 @@ function Education() {
             </tr>
             <tr>
               <td style={tdStyle}>PHY2048</td>
-              <td style={tdStyle}>Physics With Calculus II</td>
+              <td style={tdStyle}>Physics With Calculus I</td>
               <td style={tdStyle}>A</td>
               <td style={tdStyle}>Fall 2023</td>
               <td style={tdStyle}>Mechanics: kinematics, Newton's laws, energy, momentum, rotation</td>
