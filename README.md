@@ -3,7 +3,7 @@
 This is my personal portfolio website built with React and Vite. It showcases my background, education, projects, and work experience. 
 
 <br>
-🔗 Live Site: https://joshua-caron.com
+🔗 Live Site: https://josh-caron.com
 <br>
 
 
